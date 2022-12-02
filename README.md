@@ -7,7 +7,6 @@ level 1 title
 level 2 title
 
 level 2 title
-
 level 2 title
 
 level 2 title
